@@ -1,9 +1,7 @@
-# 📝 TODOBYALEX
-
 <div align="center">
   <h1 align="center">TODOBYALEX</h1>
   <p align="center">
-    <strong>Gestionnaire de tâches moderne avec interface haute performance.</strong>
+    <strong>Gestionnaire de tâches</strong>
     <br />
     Développé avec React, TypeScript et daisyUI.
   </p>
@@ -35,11 +33,3 @@
 * 🎨 **Design** : Thème sombre "Night" avec daisyUI.
 * 🔍 **Filtres** : Tri par priorité (Urgente, Moyenne, Basse).
 * 💎 **Icons** : Visuels nets avec Lucide React.
-
----
-
-## 🚀 Installation
-
-```bash
-npm install
-npm run dev
