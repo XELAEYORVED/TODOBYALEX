@@ -22,7 +22,7 @@
 ## 📸 Aperçu de l'interface
 
 <div align="center">
-  <img src="TON_LIEN_APRES_COLLE_ICI" width="700" alt="Aperçu TODOBYALEX" style="border-radius: 12px; border: 2px solid #1e293b;" />
+  <img src="src/assets/todo.png" width="700" alt="Aperçu TODOBYALEX" style="border-radius: 12px; border: 2px solid #1e293b;" />
   <p><em>L'interface sombre et épurée de TODOBYALEX.</em></p>
 </div>
 
