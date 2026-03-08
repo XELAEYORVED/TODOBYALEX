@@ -89,7 +89,7 @@ function App() {
     <div className="flex justify-center">
       
       <div className="w-2/3 flex flex-col gap-4 my-15 bg-base-300 p-5 rounded-2xl">
-        <h1 className="center">TODOBYALEX</h1><br/>
+        <h1 className="text-5xl font-black text-white animate-pulse shadow-blue-500/50 drop-shadow-2xl">TODOBYALEX</h1><br/>
         <div className="flex gap-4">
           <input
             type="text"
